@@ -1,11 +1,16 @@
 _repo: Moeder-en-kind-b-Zwangerschap-bevalling-en-verzorging-van-zuigelingen_75911
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75911-h/images/backcover.jpg
 creator:
   author:
     agent_name: Poll, C. N. van de
     gutenberg_agent_id: '58213'
     url: http://www.gutenberg.org/2009/agents/58213
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75911#Moeder-en-kind-b-Zwangerschap-bevalling-en-verzorging-van-zuigelingen
 gutenberg_issued: '2025-04-19'
 gutenberg_type: Text
 identifiers:
